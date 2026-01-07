@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edusuite-app/static/css/main.7ed8e503.css",
+    "main.js": "/edusuite-app/static/js/main.45829213.js",
+    "index.html": "/edusuite-app/index.html",
+    "main.7ed8e503.css.map": "/edusuite-app/static/css/main.7ed8e503.css.map",
+    "main.45829213.js.map": "/edusuite-app/static/js/main.45829213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed8e503.css",
+    "static/js/main.45829213.js"
+  ]
+}
